@@ -1,5 +1,8 @@
 # SHERIN Video Engine
 
+![Uploading image.png…]()
+
+
 **4K Ultra HD · 60 FPS · Image-First Video Assembly**
 
 SHERIN converts a text prompt into a complete video through modular keyframe generation,
