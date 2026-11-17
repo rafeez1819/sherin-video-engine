@@ -214,6 +214,11 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# SHERIN output artifacts
+output/*.mp4
+output/*.webm
+assets/preview/*
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
